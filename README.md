@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">A frontend developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <div align="center">
-  <ul> 🌱 I’m currently learning <strong>Typescript, Redux and UX/UI</strong></ul>
-  <ul>👯 I’m looking to collaborate on <strong>React Projects</strong></ul>
+  <ul> 🌱 I’m currently learning <strong>Typescript and Golang projects</strong></ul>
+  <ul>👯 I’m looking to collaborate on <strong>React and NextJs Projects</strong></ul>
   </div>
 
 <h3 align="center"> Connect with me:</h3>
